@@ -1,0 +1,76 @@
+.bosh {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: auto;
+	width: 1090px;
+	height: 200px;
+}
+.bosh_orta {
+	margin: auto;
+	width: 800px;
+	height: 800px;
+	background-image: url(./97bdbd6430546b51c4a2f8441f8cead9_webp.webp);
+	text-align: center;
+	font-size: 50px;
+	font-weight: 50px;
+	line-height: 70px;
+	padding-top: 62px;
+	text-align: center;
+	background-size: cover;
+	
+}
+.bosh_orta p {
+	color: blue;
+	margin-top: 200px;
+}
+
+.oxiri{
+	display: flex;
+	margin: auto;
+	width: 1000px;
+	height:500px;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: 62px;
+}
+.box{
+	background-color: #c4c4c4;
+	border-radius: 7px;
+	margin: auto;
+	width: 400px;
+	height: 200px;
+	margin-right: 20px;
+	padding: 10px;
+}
+.box1{
+	background-color: #c4c4c4;
+	border-radius: 7px;
+	width: 400px;
+	height: 200px;
+	margin-right: 20px;padding: 10px;
+}
+.box2{
+	background-color:#c4c4c4;
+    border-radius: 7px;
+	width: 400px;
+	height: 200px;
+	margin-right: 20px;
+	padding: 10px;
+}
+.ort{
+	display: flex;
+justify-content: space-between;
+align-items: center;
+margin: auto;
+width: 1090px;
+height: 200px;
+background-color: #c4c4c4;
+text-align: center;
+
+}
+.ort h4{
+	margin-right: 100px;
+	margin-left: 100px;
+}
+

@@ -1,0 +1,46 @@
+.orta{
+    margin: 80px auto;
+    width: 1000px;
+
+}
+
+.orta h1{
+    text-align: center;
+}
+
+.klk{
+    text-align: center;
+}
+
+.orta7{
+    margin-left: 100px;
+}
+
+.orta8{
+    margin-left: 80px;
+}
+
+.orta9{
+    margin-left: 80px;
+}
+
+.orta2 {
+display: flex;
+}
+.zor{
+    display: flex;
+}
+
+.zor h3 p {
+    text-align: center;
+}
+.pas{
+    margin-left: 100px;
+}
+.pas3{
+    margin-left: 120px;
+}
+
+.orta2 h1{
+    text-align: center;
+}
